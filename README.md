@@ -52,3 +52,5 @@ Skills: WordPress / Bootstrap/ JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hk-hridoy)  
 
 ![Profile views](https://gpvc.arturio.dev/Hk-hridoy)  
+
+Thank you!!
