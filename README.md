@@ -2,7 +2,6 @@
 ### Junior Web Developer
 
 https://pbs.twimg.com/profile_banners/1253321992918274049/1648991313/600x200
-
 I am an outstanding web developer for coding, innovative design, and layout of a website. The responsibilities of a web developer include ... arranging everything from the idea of creating a website to the completion of the bottom, from the home page to the layout and function of the site.
 
 Responsibilities:
