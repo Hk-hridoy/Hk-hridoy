@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/1253321992918274049/1648991313/600x200)
+https://pbs.twimg.com/profile_banners/1253321992918274049/1648991313/600x200
 
 # Hi there 👋, I'm Hridoy
 ### Junior Web Developer
